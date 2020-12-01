@@ -1,2 +1,2 @@
 # Dance Light
-Final project of Microprosseors course
+Final project of Microprocessors course
